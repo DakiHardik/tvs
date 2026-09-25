@@ -13075,10 +13075,10 @@ Navbar Area CSS
   margin: 0 110px 0 0;
 }
 .navbar .navbar-brand img {
-  max-height: 58px;
+  max-height: 80px;
   width: auto;
   object-fit: contain;
-}
+} 
 .navbar .container-fluid, .navbar .container-sm, .navbar .container-md, .navbar .container-lg, .navbar .container-xl, .navbar .container-xxl {
   padding-left: 20px;
   padding-right: 20px;
